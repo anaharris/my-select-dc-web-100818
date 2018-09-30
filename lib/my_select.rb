@@ -1,6 +1,6 @@
 def my_select(collection)
  i=0 
- new_array
+ arr = []
  while i < collection.size 
  yield array[i]
  i+=1
